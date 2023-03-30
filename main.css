@@ -64,6 +64,7 @@ input {
   border-radius: 5px;
   border-width: 1.5px;
   border-style: solid;
+  border-color: darkred;
   height: 50px;
   width: 100%;
   margin: 10px 0px 10px 0px;
@@ -74,6 +75,8 @@ input {
 }
 
 select {
+  background-color: transparent;
+  border-color: darkred;
   border-radius: 5px;
   border-width: 1.5px;
   border-style: solid;
@@ -194,6 +197,7 @@ a {
   
   input {
     border-radius: 5px;
+    border-color: darkred;
     border-width: 1.5px;
     border-style: solid;
     height: 50px;
@@ -206,6 +210,8 @@ a {
   }
 
   select {
+    background-color: transparent;
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -335,6 +341,7 @@ a {
   }
   
   input {
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -348,6 +355,8 @@ a {
   }
 
   select {
+    background-color: transparent;
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -474,6 +483,7 @@ a {
   }
   
   input {
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -487,6 +497,8 @@ a {
   }
 
   select {
+    background-color: transparent;
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -613,6 +625,7 @@ a {
   }
   
   input {
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
@@ -626,6 +639,8 @@ a {
   }
 
   select {
+    background-color: transparent;
+    border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
     border-style: solid;
