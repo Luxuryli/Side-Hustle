@@ -75,7 +75,7 @@ input {
 }
 
 select {
-  background-color: transparent;
+  background-color: white;
   border-color: darkred;
   border-radius: 5px;
   border-width: 1.5px;
@@ -210,7 +210,7 @@ a {
   }
 
   select {
-    background-color: transparent;
+    background-color: white;
     border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
@@ -355,7 +355,7 @@ a {
   }
 
   select {
-    background-color: transparent;
+    background-color: white;
     border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
@@ -497,7 +497,7 @@ a {
   }
 
   select {
-    background-color: transparent;
+    background-color: white;
     border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
@@ -639,7 +639,7 @@ a {
   }
 
   select {
-    background-color: transparent;
+    background-color: white;
     border-color: darkred;
     border-radius: 5px;
     border-width: 1.5px;
